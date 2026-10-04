@@ -1,0 +1,7 @@
+{
+  "name": "Tehran CS - بازار خرید و فروش اسکین CS2",
+  "description": "پلتفرم تخصصی و امن خرید و فروش اسکین‌های CS2 برای کاربران ایرانی با اتصال مستقیم به استیم",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
+
